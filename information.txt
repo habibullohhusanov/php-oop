@@ -1,0 +1,6 @@
+OOP->{
+    Inheritance => Meros qilib olish, meroslanish;
+    Encapsulation => o'zgarmas class;
+    Abstraction => ;
+    Polymorphism => ;
+}
