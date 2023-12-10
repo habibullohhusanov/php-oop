@@ -1,6 +1,6 @@
 OOP->{
     Inheritance => Meros qilib olish, meroslanish;
-    Encapsulation => o'zgarmas class;
-    Abstraction => ;
-    Polymorphism => ;
+    Encapsulation => o'zgarmas class, obyektni belgilangan narsalarni tashqariga chiqarish;
+    Abstraction => murakkab ammallarni berkitish;
+    Polymorphism => ko'p shakllarni olish;
 }
